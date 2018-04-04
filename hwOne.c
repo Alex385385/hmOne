@@ -8,8 +8,5 @@
 
 int main()
 {
-	printf("Hello World\n");
+	printf("Hello, my name is Alejandro Millan\n");
 }
-
-
-
