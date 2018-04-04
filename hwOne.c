@@ -8,5 +8,7 @@
 
 int main()
 {
+	printf("Hello World\n");
 	printf("Hello, my name is Alejandro Millan\n");
+	printf("Good bye, I finshed my CS 256 HW1\n");
 }
